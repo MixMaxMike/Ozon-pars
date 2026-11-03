@@ -1,0 +1,6 @@
+{
+  "name": "Ozon Catalog Extractor & Excel Exporter",
+  "description": "Парсер каталогов и карточек товаров Ozon с автоматическим извлечением названия, цен, описания, характеристик, комплектации, ссылок на все фото и экспортом в Excel в 1 клик.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
